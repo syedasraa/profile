@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(245, 214, 221);
+}
+hr{
+    border-style: none;
+    border-color:#EEEEEE;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+ color: #CB1C8D;
+}
+h3{
+    color:#CB1C8D;
+}
+h4{
+    color:#CB1C8D;
+}
+table{
+    background-color: #2B3467;
+    color: wheat ;;
+}
